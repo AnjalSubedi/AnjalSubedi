@@ -1,4 +1,5 @@
-## Hi! I'm Anjal — a passionate Computer Engineering student who loves building intelligent systems, solving real problems with machine learning, and creating clean, efficient software. I’m working toward mastering Data Science, Machine Learning, and NLP, while also strengthening my DSA and full-stack skills.
+## Hi! I'm Anjal
+a passionate Computer Engineering student who loves building intelligent systems, solving real problems with machine learning, and creating clean, efficient software. I’m working toward mastering Data Science, Machine Learning, and NLP, while also strengthening my DSA and full-stack skills.
 
 <!--
 **AnjalSubedi/AnjalSubedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
