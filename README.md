@@ -14,11 +14,12 @@ I love turning ideas into clean, meaningful, real-world projects.
 
 ---
 
-## 🔥 GitHub Stats
+### 📊 GitHub Stats
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=AnjalSubedi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnjalSubedi&show_icons=true&theme=tokyonight&hide_border=true)
+### 🧩 Most Used Languages
+<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=AnjalSubedi&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjalSubedi&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
