@@ -1,4 +1,4 @@
-🌟 Hi, I'm Anjal
+##🌟 Hi, I'm Anjal
 
 Passionate Computer Engineering student building intelligent systems, working on Machine Learning, NLP, Data Science, and sharpening my DSA + Full-Stack skills.
 I love creating clean, meaningful projects and learning something new every day.
